@@ -38,6 +38,7 @@ body {
 .btn-black:hover {
   background: var(--mainDark) !important;
   color: var(--mainWhite) !important;
+  cursor: pointer !important;
 }
 
 .cart-icon {
